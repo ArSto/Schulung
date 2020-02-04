@@ -2,9 +2,9 @@
 
 ## Date
 
-2020-02-04
+04.02.2020
 
 ## Author
 
-Arno CB Stöcker
+Arno Stöcker
 
