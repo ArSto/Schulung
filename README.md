@@ -8,3 +8,10 @@
 
 Arno Stöcker
 
+## Location
+
+Cologne, Germany
+
+## Browser
+
+Firefox
